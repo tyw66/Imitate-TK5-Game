@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "弓术游戏", "弓术\弓术游戏.csproj", "{B1E50073-66A7-4157-A739-E21B1C2CBE5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "个人战", "个人战\个人战.csproj", "{5F4F0B59-856B-4C7B-A8C7-83FBAF6A62FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1E50073-66A7-4157-A739-E21B1C2CBE5A}.Debug|x86.ActiveCfg = Debug|x86
+		{B1E50073-66A7-4157-A739-E21B1C2CBE5A}.Debug|x86.Build.0 = Debug|x86
+		{B1E50073-66A7-4157-A739-E21B1C2CBE5A}.Release|x86.ActiveCfg = Release|x86
+		{B1E50073-66A7-4157-A739-E21B1C2CBE5A}.Release|x86.Build.0 = Release|x86
+		{5F4F0B59-856B-4C7B-A8C7-83FBAF6A62FC}.Debug|x86.ActiveCfg = Debug|x86
+		{5F4F0B59-856B-4C7B-A8C7-83FBAF6A62FC}.Debug|x86.Build.0 = Debug|x86
+		{5F4F0B59-856B-4C7B-A8C7-83FBAF6A62FC}.Release|x86.ActiveCfg = Release|x86
+		{5F4F0B59-856B-4C7B-A8C7-83FBAF6A62FC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
